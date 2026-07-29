@@ -1,4 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+✨ ویژگی‌های کلیدی سیستم:
+
+✅ امنیت بالا با کد یکبار مصرف (OTP) ۵ رقمی و تایمر خودکار
+✅ طراحی مدرن سه‌بعدی (3D) با افکت‌های شیشه‌ای (Glassmorphism)
+✅ کاملاً ریسپانسیو و بهینه برای موبایل، تبلت و دسکتاپ
+✅ پشتیبانی کامل و آنی از حالت تاریک (Dark Mode)
+✅ انیمیشن‌های نرم، روان و حرفه‌ای در تمام تعاملات کاربر
+✅ داشبورد مدیریتی حرفه‌ای با آمار و شمارنده‌های زنده
+✅ پاکسازی خودکار و کامل تمام فیلدها و حالت‌ها هنگام خروج
+✅ اعتبارسنجی هوشمند شماره موبایل و پشتیبانی از اعداد فارسی/عربی
+
+🛠️ تکنولوژی‌های استفاده شده:
+
+⚛️ Next.js 15+ (App Router)
+⚛️ React 18+ با TypeScript
+🎨 Tailwind CSS v4
+🪝 React Hooks (useState, useEffect, useRef)
+💾 localStorage برای ذخیره‌سازی ترجیحات کاربر
+🎯 آیکون‌های SVG سفارشی و بهینه
+📱 طراحی واکنش‌گرا (Responsive Design)
+🌙 مدیریت تم تاریک/روشن با CSS Variables
 
 ## Getting Started
 
